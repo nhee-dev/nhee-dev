@@ -1,11 +1,14 @@
 ## NAM-HEE : 🙋‍ Hello, I'm Namhee Kim!
+
+<p>- 🌱 I’m currently learning : <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white"/></p>
+  
 ### 🛠 Tech Stack
+
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -25,6 +28,7 @@
 
 </br>
 
+
 ### 📊 Github Stats
 <div>
   
@@ -37,7 +41,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
