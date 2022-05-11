@@ -1,4 +1,4 @@
-## NAM-HEE : 🙋‍ Hello, I'm Namhee Kim!
+## 🙋‍ Hello, I'm Namhee Kim!
 
 <p>- 🌱 I’m currently learning : <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white"/></p>
