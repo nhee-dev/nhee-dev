@@ -1,7 +1,7 @@
 ## 🙋‍ Hello, I'm Namhee Kim!
 
-<p>- 🌱 I’m currently learning : <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white"/>
+<p>🌱 I’m currently learning : 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Vue.js-000000?style=plastic&logo=Vue.js&logoColor=#4FC08D"/></p>
   
 ### 🛠 Tech Stack
@@ -19,11 +19,14 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
 </div>
 
 </br>
