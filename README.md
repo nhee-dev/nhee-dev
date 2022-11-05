@@ -35,7 +35,7 @@
 ### 📊 Github Stats
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhee0410&hide=issues&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhee-dev&hide=issues&show_icons=true)  
 
 </div>
 
