@@ -1,5 +1,3 @@
-## 🙋‍ Hello, I'm Namhee Kim!
-  
 ### 🛠 Tech Stack
 
 <div>
@@ -11,6 +9,8 @@
 </div>
 
 </br>
+
+### 🌱 solved.ac
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nhee0410&theme=cold)
 
