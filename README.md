@@ -1,5 +1,3 @@
-## 🧑🏻‍💻 Introduction
-
 ## 🛠 Tech Stack
 
 <div>
@@ -12,6 +10,6 @@
 
 | **Project</br>Name** | **Skills used** | **Period** | **Description** |
 | -- | -- | -- | -- |
-| [SDUTY+](https://github.com/nhee-dev/SdutyPlus) | Android, Kotlin, Jetpack, MVVM, </br> Clean Architecture | 22.10.10~11.23 | SDUTY 리팩토링 및 기능 추가 |
+| [SDUTY+](https://github.com/nhee-dev/SdutyPlus) | Android, Kotlin, Jetpack, MVVM, Clean Architecture | 22.10.10~11.23 | SDUTY 리팩토링 및 기능 추가 |
 | [Sonmal](https://github.com/SonmalTeam/Sonmal) | Android, Kotlin, Jetpack, MVVM | 22.08.22~10.27 | 청각 장애인 일상 소통 보조를 위한 앱 |
 | [SDUTY](https://github.com/SdutyTeam/Sduty) | Android, Kotlin, Jetpack, MVVM | 22.07.05~08.19 | 공부 인증 스터디 앱 |
