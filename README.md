@@ -2,7 +2,7 @@
 
 <div>
   
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat&logo=nhee0410@pusan.ac.kr&logoColor=white&link=mailto:nhee0410@pusan.ac.kr)](mailto:nhee0410@pusan.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/-nhee0410@pusan.ac.kr-black?style=flat&logo=Gmail&logoColor=white&link=mailto:nhee0410@pusan.ac.kr)](mailto:nhee0410@pusan.ac.kr)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-black?style=flat&logo=Tistory&logoColor=white&link=https://nhee-devlog.tistory.com/)](https://nhee-devlog.tistory.com/)
 
 </div>
@@ -10,9 +10,9 @@
 ## 🛠 Tech Stack
 
 <div>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-black?style=flat&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-black?style=flat&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=white"/>
 </div>
 
 ## 💡 Team Projects
