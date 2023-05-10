@@ -23,3 +23,4 @@
 | [Sonmal](https://github.com/SonmalTeam/Sonmal) | Android, Kotlin, Jetpack, MVVM | 22.08.22~10.07 | 청각 장애인 일상 소통 보조를 위한 앱 |
 | [SDUTY](https://github.com/SdutyTeam/Sduty) | Android, Kotlin, Jetpack, MVVM | 22.07.05~08.19 | 공부 인증 스터디 앱 |
 
+현재 [SDUTY+](https://github.com/SdutyPlus/SdutyPlus) 유지보수 중 (2023.02.02~)
