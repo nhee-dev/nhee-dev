@@ -2,7 +2,7 @@
 
 <div>
   
-[![Gmail Badge](https://img.shields.io/badge/-nhee0410@pusan.ac.kr-black?style=flat&logo=Gmail&logoColor=white&link=mailto:nhee0410@pusan.ac.kr)](mailto:nhee0410@pusan.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/-namhee.kim.dev@gmail.com-black?style=flat&logo=Gmail&logoColor=white&link=mailto:namhee.kim.dev@gmail.com)](mailto:namhee.kim.dev@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-black?style=flat&logo=Tistory&logoColor=white&link=https://nhee-devlog.tistory.com/)](https://nhee-devlog.tistory.com/)
 
 </div>
