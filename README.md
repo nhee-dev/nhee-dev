@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/badge/Kotlin-black?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=white"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Jira Software-black?style=flat&logo=Jira Software&logoColor=white"/>    
+</div>
 
 ## 💡 Team Projects
 
