@@ -1,5 +1,3 @@
-**Feel free to contribute to the my(nhee-dev) public repository, excluding 'study'!**
-
 ## 📫 Connect with me
 
 <div>
