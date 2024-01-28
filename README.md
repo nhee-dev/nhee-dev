@@ -3,7 +3,6 @@
 <div>
   
 [![Gmail Badge](https://img.shields.io/badge/-namhee.kim.dev@gmail.com-black?style=flat&logo=Gmail&logoColor=white&link=mailto:namhee.kim.dev@gmail.com)](mailto:namhee.kim.dev@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Devlog-black?style=flat&logo=Velog&logoColor=white&link=https://nhee-devlog.tistory.com/)](https://velog.io/@nhee-dev)
 [![Tistory Badge](https://img.shields.io/badge/TIL-black?style=flat&logo=Tistory&logoColor=white&link=https://nhee-devlog.tistory.com/)](https://nhee-devlog.tistory.com/)
 
 </div>
