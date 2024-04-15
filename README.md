@@ -19,3 +19,7 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Jira Software-black?style=flat&logo=Jira Software&logoColor=white"/>    
 </div>
+
+</br>
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=nhee0410&theme=cold)
