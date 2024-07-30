@@ -21,5 +21,3 @@
 </div>
 
 </br>
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=nhee0410&theme=cold)
